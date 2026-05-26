@@ -53,13 +53,10 @@ A rental-listing aggregator that collects apartment listings from social platfor
 **Highlights:** shared scraping pipeline, per-user filtering, MongoDB-backed storage.
 **Stack:** React · Node.js · Express · MongoDB · Playwright
 
-### [Project Name]
-Short description of what it does and the problem it solves.
-**Stack:** [tech · tech · tech]
-
-### [Project Name]
-Short description of what it does and the problem it solves.
-**Stack:** [tech · tech · tech]
+### BarOS
+A full-stack bar management system for running the floor end-to-end — menu, orders, inventory, and daily reports in one place, so staff stop juggling notepads and spreadsheets mid-shift.
+**Highlights:** category-driven menu with live search, cart-and-order flow with CRUDL product management, inventory tracking, Chart.js daily reports.
+**Stack:** React · Vite · Redux · Material-UI · Node.js · Express · MongoDB
 
 ---
 
