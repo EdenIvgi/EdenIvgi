@@ -12,8 +12,8 @@ I like building practical things — designing clean APIs, thinking through back
 
 I'm curious by nature and always digging into how things work under the hood. Lately I've been especially into **web scraping, mobile development, and AI tooling**.
 
-- 🌐 **Website:** [your-site.com](https://your-site.com)
-- 💼 **LinkedIn:** [linkedin.com/in/your-handle](https://www.linkedin.com/in/your-handle/)
+- 🌐 **Website:** https://edenavgi-dev.onrender.com/
+- 💼 **LinkedIn:** www.linkedin.com/in/eden-avgi-71553939b
 - 📫 **Contact:** edenavgi@gmail.com
 
 ---
