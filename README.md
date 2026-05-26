@@ -1,4 +1,6 @@
-> I build web applications end-to-end, with a strong focus on clean architecture, reliability, and shipping things that actually work.
+# 👋 Hi, I'm Eden Avgi
+
+I build web applications end-to-end, with a strong focus on clean architecture, reliability, and shipping things that actually work.
 
 ---
 
