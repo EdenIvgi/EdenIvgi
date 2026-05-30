@@ -6,11 +6,9 @@ I build web applications end-to-end, with a strong focus on clean architecture, 
 
 ## 👨‍💻 About Me
 
-I'm **Eden A**, a Full-Stack Developer who enjoys taking ideas all the way from concept to deployed, working software.
+I'm **Eden**, a Full-Stack Developer who enjoys taking ideas all the way from concept to deployed, working software.
 
 I like building practical things — designing clean APIs, thinking through backend architecture, and crafting frontends that feel good to use. I care about how software behaves in the real world: how it scales, how it fails, and how it stays maintainable over time.
-
-I'm curious by nature and always digging into how things work under the hood. Lately I've been especially into **web scraping, mobile development, and AI tooling**.
 
 - 🌐 **Website:** https://edenavgi-dev.onrender.com/
 - 💼 **LinkedIn:** www.linkedin.com/in/eden-avgi-71553939b
@@ -57,14 +55,6 @@ A rental-listing aggregator that collects apartment listings from social platfor
 A full-stack bar management system for running the floor end-to-end — menu, orders, inventory, and daily reports in one place, so staff stop juggling notepads and spreadsheets mid-shift.
 **Highlights:** category-driven menu with live search, cart-and-order flow with CRUDL product management, inventory tracking, Chart.js daily reports.
 **Stack:** React · Vite · Redux · Material-UI · Node.js · Express · MongoDB
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EdenIvgi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdenIvgi&layout=compact&theme=tokyonight)
 
 ---
 
